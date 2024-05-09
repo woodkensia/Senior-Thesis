@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#author: Woodkensia Charles email: woodych6@gmail.com
+# Code for senior of thesis of Time-Invariance Violation of Neutrino Oscillation
 # # Table of Contents: 
 # ### Imports
 # ### Probability in a vacuum
